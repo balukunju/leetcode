@@ -43,7 +43,6 @@ class BrowserHistory:
                 break
         return self.current.url
 
-#Test Commit
 # Your BrowserHistory object will be instantiated and called as such:
 # obj = BrowserHistory(homepage)
 # obj.visit(url)
