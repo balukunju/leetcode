@@ -26,5 +26,7 @@ class Solution:
         
         return mergeSort(nums)        
         
+#Reference : https://leetcode.com/problems/sort-an-array/solutions/461394/python-3-eight-sorting-algorithms-with-explanation
+    
 # @lc code=end
 
