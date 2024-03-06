@@ -17,7 +17,7 @@ class Solution:
         left, right = 1, n
         while left <= right:
             mid = (left + right)//2
-            val = guess(mid)
+            val = guessNumber(mid)
             if val == 0:
                 return mid
             elif val == -1:
